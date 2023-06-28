@@ -5,3 +5,4 @@ API REST para manejar autenticación de usuario y rutas protegidas. Desarrollada
 ## Variables de entorno
 
 - **PORT**: por defecto es 5000.
+- **DATABASE_URL**: url de la base de datos, en este caso se usó MySQL.
